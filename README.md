@@ -3,9 +3,12 @@
 Link al video Trabajo Final (enlace a Drive):
 https://drive.google.com/file/d/1eBi4fdfbgTE5scWI9FQvZTBxfB17wOkP/view?usp=sharing
 
-Alumna: Barrionuevo Romina;
-DNI:30849251;
-Mail de contacto: robarrionuevo13@gmail.com;
+Alumna: Barrionuevo Romina
+
+DNI:30849251
+
+Mail de contacto: robarrionuevo13@gmail.com
+
 LinkedIn: www.linkedin.com/in/romina-barrionuevo
 
 Otros Trabajos presentados en Codo a Codo:
