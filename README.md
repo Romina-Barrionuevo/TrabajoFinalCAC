@@ -16,13 +16,19 @@ Otros Trabajos presentados en Codo a Codo:
 BOOTSTRAP:
 
 Enlace Repositorio trabajo personalizado: https://github.com/Romina-Barrionuevo/Romina-Barrionuevo-Bootstrap
+
 Enlace Página trabajo personalizado:: https: https://romina-barrionuevo.github.io/Romina-Barrionuevo-Bootstrap/
 
 JAVASCRIPT:
 
 Trabajo Personalizado Individual:
+
 Enlace Repositorio trabajo personalizado: https://github.com/Romina-Barrionuevo/Reiki-JAVASCRIPT
+
 Enlace Página trabajo personalizado: https://romina-barrionuevo.github.io/Reiki-JAVASCRIPT/
 
+Trabajo Grupal:
+
 Enlace al deploy Grupal: https://yesarelafloresnavajas.github.io/TP-Integrador-JS/
+
 Enlace al repositorio de GitHub Grupal: https://github.com/YesarelaFloresNavajas/TP-Integrador-Js
